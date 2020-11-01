@@ -5,4 +5,4 @@ Yelp clone using the Yelp API, and Parse. View restaurants, chat with users, aut
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Power186/Parstagram/blob/master/parstagram2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Power186/Yelpy/blob/master/yelpy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
